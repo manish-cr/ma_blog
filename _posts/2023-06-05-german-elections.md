@@ -22,5 +22,5 @@ Afterwards, we convert the train_df to a datetime time-series and observe the ch
 
 For federal elections and surveys, we observe that CDU, SPD and GRÜNE are the 3 most popular candidates. We then create a scatterplot to observe the frequency of CDU pollings in the last 12 years.
 
-![german political parties](https://www.theafricancourier.de/wp-content/uploads/2017/08/Parteien-bei-der-Bundestagswahl-2017-660x330.png)  
+![german political parties](https://germanculture.com.ua/wp-content/uploads/2015/12/german_political_parties.jpg)  
 *Popular german political parties*
